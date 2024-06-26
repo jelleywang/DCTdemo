@@ -4,6 +4,7 @@
 
 環境設置：
 1.  安裝python 3.7
+2.  套件安裝
     ```
     pip install matplotlib
     pip install scikit-image
