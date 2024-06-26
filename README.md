@@ -4,8 +4,9 @@
 
 環境設置：
 1.  安裝python 3.7
-
-2.  pip install matplotlib
+    ```
+    pip install matplotlib
     pip install scikit-image
     pip install opencv-python
     pip install mumpy
+    ```
